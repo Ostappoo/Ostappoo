@@ -1,4 +1,5 @@
 ### Hi there 👋
+Здесь находятся мои работы и наработки за все время 
 
 <!--
 **Ostappoo/Ostappoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
